@@ -1,0 +1,9 @@
+/Users/eren.ozturk/Documents/MyProjects/ApiGateway/Services/ReservationAPI/Reservation.Models/bin/Debug/netcoreapp3.1/Reservation.Models.deps.json
+/Users/eren.ozturk/Documents/MyProjects/ApiGateway/Services/ReservationAPI/Reservation.Models/bin/Debug/netcoreapp3.1/Reservation.Models.dll
+/Users/eren.ozturk/Documents/MyProjects/ApiGateway/Services/ReservationAPI/Reservation.Models/bin/Debug/netcoreapp3.1/Reservation.Models.pdb
+/Users/eren.ozturk/Documents/MyProjects/ApiGateway/Services/ReservationAPI/Reservation.Models/obj/Debug/netcoreapp3.1/Reservation.Models.csprojAssemblyReference.cache
+/Users/eren.ozturk/Documents/MyProjects/ApiGateway/Services/ReservationAPI/Reservation.Models/obj/Debug/netcoreapp3.1/Reservation.Models.AssemblyInfoInputs.cache
+/Users/eren.ozturk/Documents/MyProjects/ApiGateway/Services/ReservationAPI/Reservation.Models/obj/Debug/netcoreapp3.1/Reservation.Models.AssemblyInfo.cs
+/Users/eren.ozturk/Documents/MyProjects/ApiGateway/Services/ReservationAPI/Reservation.Models/obj/Debug/netcoreapp3.1/Reservation.Models.csproj.CoreCompileInputs.cache
+/Users/eren.ozturk/Documents/MyProjects/ApiGateway/Services/ReservationAPI/Reservation.Models/obj/Debug/netcoreapp3.1/Reservation.Models.dll
+/Users/eren.ozturk/Documents/MyProjects/ApiGateway/Services/ReservationAPI/Reservation.Models/obj/Debug/netcoreapp3.1/Reservation.Models.pdb

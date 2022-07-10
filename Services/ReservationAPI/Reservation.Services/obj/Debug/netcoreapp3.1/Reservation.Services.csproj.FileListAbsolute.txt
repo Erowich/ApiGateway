@@ -1,0 +1,14 @@
+/Users/eren.ozturk/Documents/MyProjects/ApiGateway/Services/ReservationAPI/Reservation.Services/bin/Debug/netcoreapp3.1/Reservation.Services.deps.json
+/Users/eren.ozturk/Documents/MyProjects/ApiGateway/Services/ReservationAPI/Reservation.Services/bin/Debug/netcoreapp3.1/Reservation.Services.dll
+/Users/eren.ozturk/Documents/MyProjects/ApiGateway/Services/ReservationAPI/Reservation.Services/bin/Debug/netcoreapp3.1/Reservation.Services.pdb
+/Users/eren.ozturk/Documents/MyProjects/ApiGateway/Services/ReservationAPI/Reservation.Services/bin/Debug/netcoreapp3.1/Reservation.Infrastructure.dll
+/Users/eren.ozturk/Documents/MyProjects/ApiGateway/Services/ReservationAPI/Reservation.Services/bin/Debug/netcoreapp3.1/Reservation.Models.dll
+/Users/eren.ozturk/Documents/MyProjects/ApiGateway/Services/ReservationAPI/Reservation.Services/bin/Debug/netcoreapp3.1/Reservation.Infrastructure.pdb
+/Users/eren.ozturk/Documents/MyProjects/ApiGateway/Services/ReservationAPI/Reservation.Services/bin/Debug/netcoreapp3.1/Reservation.Models.pdb
+/Users/eren.ozturk/Documents/MyProjects/ApiGateway/Services/ReservationAPI/Reservation.Services/obj/Debug/netcoreapp3.1/Reservation.Services.csprojAssemblyReference.cache
+/Users/eren.ozturk/Documents/MyProjects/ApiGateway/Services/ReservationAPI/Reservation.Services/obj/Debug/netcoreapp3.1/Reservation.Services.AssemblyInfoInputs.cache
+/Users/eren.ozturk/Documents/MyProjects/ApiGateway/Services/ReservationAPI/Reservation.Services/obj/Debug/netcoreapp3.1/Reservation.Services.AssemblyInfo.cs
+/Users/eren.ozturk/Documents/MyProjects/ApiGateway/Services/ReservationAPI/Reservation.Services/obj/Debug/netcoreapp3.1/Reservation.Services.csproj.CoreCompileInputs.cache
+/Users/eren.ozturk/Documents/MyProjects/ApiGateway/Services/ReservationAPI/Reservation.Services/obj/Debug/netcoreapp3.1/Reservation.Services.csproj.CopyComplete
+/Users/eren.ozturk/Documents/MyProjects/ApiGateway/Services/ReservationAPI/Reservation.Services/obj/Debug/netcoreapp3.1/Reservation.Services.dll
+/Users/eren.ozturk/Documents/MyProjects/ApiGateway/Services/ReservationAPI/Reservation.Services/obj/Debug/netcoreapp3.1/Reservation.Services.pdb

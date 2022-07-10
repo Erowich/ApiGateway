@@ -1,0 +1,9 @@
+/Users/eren.ozturk/Documents/MyProjects/ApiGateway/Services/ContactAPI/Contact.API.Models/bin/Debug/netcoreapp3.1/Contact.API.Models.deps.json
+/Users/eren.ozturk/Documents/MyProjects/ApiGateway/Services/ContactAPI/Contact.API.Models/bin/Debug/netcoreapp3.1/Contact.API.Models.dll
+/Users/eren.ozturk/Documents/MyProjects/ApiGateway/Services/ContactAPI/Contact.API.Models/bin/Debug/netcoreapp3.1/Contact.API.Models.pdb
+/Users/eren.ozturk/Documents/MyProjects/ApiGateway/Services/ContactAPI/Contact.API.Models/obj/Debug/netcoreapp3.1/Contact.API.Models.csprojAssemblyReference.cache
+/Users/eren.ozturk/Documents/MyProjects/ApiGateway/Services/ContactAPI/Contact.API.Models/obj/Debug/netcoreapp3.1/Contact.API.Models.AssemblyInfoInputs.cache
+/Users/eren.ozturk/Documents/MyProjects/ApiGateway/Services/ContactAPI/Contact.API.Models/obj/Debug/netcoreapp3.1/Contact.API.Models.AssemblyInfo.cs
+/Users/eren.ozturk/Documents/MyProjects/ApiGateway/Services/ContactAPI/Contact.API.Models/obj/Debug/netcoreapp3.1/Contact.API.Models.csproj.CoreCompileInputs.cache
+/Users/eren.ozturk/Documents/MyProjects/ApiGateway/Services/ContactAPI/Contact.API.Models/obj/Debug/netcoreapp3.1/Contact.API.Models.dll
+/Users/eren.ozturk/Documents/MyProjects/ApiGateway/Services/ContactAPI/Contact.API.Models/obj/Debug/netcoreapp3.1/Contact.API.Models.pdb

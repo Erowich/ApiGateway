@@ -1,0 +1,84 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Contact.API.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Contact.API.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contact.API.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Contact.API.Models/1.0.0": {
+      "type": "project",
+      "path": "../Contact.API.Models/Contact.API.Models.csproj",
+      "msbuildProject": "../Contact.API.Models/Contact.API.Models.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Contact.API.Models >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/eren.ozturk/.nuget/packages/": {},
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/eren.ozturk/Documents/MyProjects/ApiGateway/Services/ContactAPI/Contact.API.Infrastructre/Contact.API.Infrastructre.csproj",
+      "projectName": "Contact.API.Infrastructre",
+      "projectPath": "/Users/eren.ozturk/Documents/MyProjects/ApiGateway/Services/ContactAPI/Contact.API.Infrastructre/Contact.API.Infrastructre.csproj",
+      "packagesPath": "/Users/eren.ozturk/.nuget/packages/",
+      "outputPath": "/Users/eren.ozturk/Documents/MyProjects/ApiGateway/Services/ContactAPI/Contact.API.Infrastructre/obj/",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "/Users/eren.ozturk/Documents/MyProjects/ApiGateway/Services/ContactAPI/Contact.API.Models/Contact.API.Models.csproj": {
+              "projectPath": "/Users/eren.ozturk/Documents/MyProjects/ApiGateway/Services/ContactAPI/Contact.API.Models/Contact.API.Models.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.301/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

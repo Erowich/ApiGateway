@@ -1,0 +1,12 @@
+/Users/eren.ozturk/Documents/MyProjects/ApiGateway/Services/ContactAPI/Contact.API.Infrastructre/bin/Debug/netcoreapp3.1/Contact.API.Infrastructre.deps.json
+/Users/eren.ozturk/Documents/MyProjects/ApiGateway/Services/ContactAPI/Contact.API.Infrastructre/bin/Debug/netcoreapp3.1/Contact.API.Infrastructre.dll
+/Users/eren.ozturk/Documents/MyProjects/ApiGateway/Services/ContactAPI/Contact.API.Infrastructre/bin/Debug/netcoreapp3.1/Contact.API.Infrastructre.pdb
+/Users/eren.ozturk/Documents/MyProjects/ApiGateway/Services/ContactAPI/Contact.API.Infrastructre/bin/Debug/netcoreapp3.1/Contact.API.Models.dll
+/Users/eren.ozturk/Documents/MyProjects/ApiGateway/Services/ContactAPI/Contact.API.Infrastructre/bin/Debug/netcoreapp3.1/Contact.API.Models.pdb
+/Users/eren.ozturk/Documents/MyProjects/ApiGateway/Services/ContactAPI/Contact.API.Infrastructre/obj/Debug/netcoreapp3.1/Contact.API.Infrastructre.csprojAssemblyReference.cache
+/Users/eren.ozturk/Documents/MyProjects/ApiGateway/Services/ContactAPI/Contact.API.Infrastructre/obj/Debug/netcoreapp3.1/Contact.API.Infrastructre.AssemblyInfoInputs.cache
+/Users/eren.ozturk/Documents/MyProjects/ApiGateway/Services/ContactAPI/Contact.API.Infrastructre/obj/Debug/netcoreapp3.1/Contact.API.Infrastructre.AssemblyInfo.cs
+/Users/eren.ozturk/Documents/MyProjects/ApiGateway/Services/ContactAPI/Contact.API.Infrastructre/obj/Debug/netcoreapp3.1/Contact.API.Infrastructre.csproj.CoreCompileInputs.cache
+/Users/eren.ozturk/Documents/MyProjects/ApiGateway/Services/ContactAPI/Contact.API.Infrastructre/obj/Debug/netcoreapp3.1/Contact.API.Infrastructre.csproj.CopyComplete
+/Users/eren.ozturk/Documents/MyProjects/ApiGateway/Services/ContactAPI/Contact.API.Infrastructre/obj/Debug/netcoreapp3.1/Contact.API.Infrastructre.dll
+/Users/eren.ozturk/Documents/MyProjects/ApiGateway/Services/ContactAPI/Contact.API.Infrastructre/obj/Debug/netcoreapp3.1/Contact.API.Infrastructre.pdb
